@@ -1,4 +1,4 @@
-cuda,
+tensorflow, gpu, cuda,
 blender, makehuman
 telegram
 brave
