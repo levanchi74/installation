@@ -4,3 +4,4 @@ telegram
 brave
 idm
 MS offices
+Git
