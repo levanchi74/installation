@@ -1,0 +1,6 @@
+cuda,
+blender, makehuman
+telegram
+brave
+idm
+MS offices
